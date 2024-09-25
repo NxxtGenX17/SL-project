@@ -1,0 +1,21 @@
+body { 
+  background-color: lightblue;
+}
+
+
+h1{
+	color: white; 
+	background-color:black;
+}
+
+h2 {
+  color:white;
+  background-color: black;
+}  
+  
+p {
+  padding: 5px;
+	color: white;
+	background-color: black;
+	width: fit-content;
+}
